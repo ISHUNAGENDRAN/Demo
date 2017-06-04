@@ -7,7 +7,7 @@ class StringtoInt
      
       Scanner in = new Scanner(System.in);
       String n=in.next();
-      int n2=Integer.valueOf(n);
+      int n2=Integer.parseInt(n);
       System.out.println(n2);
    }
 }
