@@ -21,6 +21,6 @@ class Deletingdigit
  System.arraycopy(p,0,d,0,g);
  Arrays.sort(d);
  for(int j=0;j<g-k;j++)
-      System.out.println(d[j]);
+      System.out.print(d[j]);
    }
 }
