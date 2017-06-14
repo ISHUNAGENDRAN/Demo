@@ -1,5 +1,5 @@
 import java.util.*;
-public class num{
+public class rotatenum{
 
     public static void main(String[] args) {
 
